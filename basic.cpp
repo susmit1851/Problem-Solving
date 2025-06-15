@@ -5,7 +5,7 @@ int main(){
 
 	int a,b; cin>>a>>b;
 	cout<<"The Sum is : "<<a+b<<endl;
-
+	cout<<"done"<<endl;
 
 }
 
