@@ -1,0 +1,3 @@
+w: Write (save) the file
+:q: Quit Vim
+:.,$d : Clear all the lines below the line at which cursor is present
